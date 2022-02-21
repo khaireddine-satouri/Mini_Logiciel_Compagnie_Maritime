@@ -1,0 +1,2 @@
+g++ principal.cpp
+.\a.exe
